@@ -1,0 +1,11 @@
+hyfirebase // fb
+1. fb - ile melumatlari clg -ye getititem amma input vasitesile getire bilmirem.
+
+2. f1(){var d = 55} - f2(){}   men f1-in icindeki yazdiqim var d-ni  
+   f2 - funksiyasinin icinde caqira bilmirem. [proekt yerlesir]:firebase/assets/homeProyekt1.js
+//data - lari inputa keyup ederek li-lere qoyuram hetta li-ye click etdikde input-un val-si hemin li olur 
+//amma li-nin inputun val-de ola ola buttonu click etdikde  hemin li-nin melumatlarini getirib
+//mene vermir.
+
+3. localStorage ile melumatlari getire bilirem amma getirdiyim data-ni sile bilmirem. 
+   [proekt yerlesir]:localStorage1/script.js
